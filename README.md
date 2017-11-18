@@ -9,7 +9,7 @@ Astonishingly, there is no way to set your new tab page in Google Chrome other t
 You can install this extension by going to the release folder, downloading the most recent `.crx` file, and dragging it into `chrome://extensions`.
 #### Unpacked (If you want to make changes)
 You can install the unpacked extension by:
-* Downloading the `source` folder.
+* Downloading the `source` folder. (there is a zip there)
 * Going to `chrome://extensions` and checking the `Developer Mode` box in the top right.
 * Clicking the `Load unpacked extension...` button, and selecting the source folder you downloaded.
 
