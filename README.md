@@ -14,3 +14,6 @@ You can install the unpacked extension by:
 * Clicking the `Load unpacked extension...` button, and selecting the source folder you downloaded.
 
 After that, you can open `chromeredirect.js` and change the URL there to whatever you want to, effectively making the extension a new-tab redirect to whatever you want.
+## Why isn't this extension on the chrome web store?
+* I don't want to pay the $5 fee.
+* I am too lazy to make an icon and to make a bunch of other icons and whatnot (not really, mostly the one above)
