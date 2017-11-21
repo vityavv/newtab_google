@@ -4,5 +4,8 @@
   "version": "1",
   "chrome_url_overrides": {
     "newtab": "googleredirect.html"
+  },
+  "icons": {
+    "256": "icon.png"
   }
 }
